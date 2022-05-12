@@ -1,0 +1,67 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(to right top, #ffb0dd, #ffb4c5, #ffbfaf, #ffce9f, #ffdf9c, #f2e99f, #e3f3a8, #d2fcb5, #bcfec4, #a8ffd4, #96ffe6, #89fff7);
+}
+#icon{
+    width: 50px;
+    height: 50px;
+    float: right;
+    margin-right: 10px;
+}
+#login_div,#div2,#output{
+    float: none;
+    border-style:ridge;
+    border-width: 10px;
+    background-image: linear-gradient(to right top, #faff9d, #fcf493, #fdea8a, #ffdf82, #ffd47c, #ffca7a, #ffc17a, #ffb87a, #ffaf80, #ffa687, #ff9f8f, #fe9898);
+    padding: 10px;
+    box-shadow: 5px 5px 40px black;
+    margin-top: 50px;
+}
+#logo{
+    width: 200px;
+}
+#login_btn{
+    width: 20%;
+    padding: 5px;
+    border-radius: 50px;
+    color: #fe9898;
+    background-color: #96ffe6;
+    font-weight:700;
+}
+#logout{
+    float: left;
+    margin-left: 10px;
+    border-radius: 100px;
+}
+#room,#send{
+    margin: 10px;
+    background-image: linear-gradient(to right top, #caa8f3, #bda9f3, #afa9f1, #a3a9ef, #96a9ec, #8eabed, #86aced, #7eaeed, #77b3f1, #70b7f5, #68bcf8, #5fc0fb);
+    border-radius: 100px;
+    padding: 5px;
+}
+#h3_1{
+    margin-top: 30px;
+}
+#div3{
+    float: none;
+    border-style:ridge;
+    border-width: 10px;
+    background-image: linear-gradient(to right top, #faff9d, #fcf493, #fdea8a, #ffdf82, #ffd47c, #ffca7a, #ffc17a, #ffb87a, #ffaf80, #ffa687, #ff9f8f, #fe9898);
+    padding: 10px;
+    box-shadow: 5px 5px 40px black;
+    margin-top: 50px;
+    bottom: 10;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+}
+.like_btn{
+    background-image: linear-gradient(to right top, #caa8f3, #bda9f3, #afa9f1, #a3a9ef, #96a9ec, #8eabed, #86aced, #7eaeed, #77b3f1, #70b7f5, #68bcf8, #5fc0fb);
+    border-radius: 100px;
+    padding: 5px;
+}
+#tic_Img{
+    height: 30px;
+    width: 30px;
+    margin-left: 10px;
+}
